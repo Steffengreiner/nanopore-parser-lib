@@ -1,0 +1,12 @@
+domain: lib
+language: java
+project_name: nanopore-parser-lib
+project_slug: nanopore-parser-lib
+project_short_description: lib with which nanopore parser can be run
+template_version: '1.0.0 # <<QUBE_NO_BUMP>>'
+template_handle: lib-java
+full_name: Steffen Greiner
+email: steffen.greiner@student.uni-tuebingen.de
+copyright_holder: QBiC
+github_username: Steffengreiner
+version: 1.0.0-SNAPSHOT
